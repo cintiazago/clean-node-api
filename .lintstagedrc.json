@@ -1,6 +1,5 @@
 {
     "*.ts": [
-        "eslint 'src/**' --fix",
-        "git add"
+        "eslint 'src/**' --fix --no-error-on-unmatched-pattern"
     ]
 }
