@@ -52,5 +52,6 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.6.3",
     "validator": "^13.1.17"
-  }
+  },
+  "engines": "12.x"
 }
