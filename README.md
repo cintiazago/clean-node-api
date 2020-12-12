@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/cintiazago/clean-node-api/badge.svg)](https://coveralls.io/github/cintiazago/clean-node-api)
+
+[![Build Status](https://travis-ci.org/cintiazago/clean-node-api.svg?branch=main)](https://travis-ci.org/cintiazago/clean-node-api)
+
 # WIP: Clean Node API
 
 ## [**Link para o curso completo**](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)
